@@ -1,7 +1,7 @@
 {
     "name": "com.draginalo.unitypsxshaderkit",
     "version": "1.0.0",
-    "displayName": "Package Example",
+    "displayName": "Unity PSX Shader Kit",
     "description": "A package with some PSX shaders.",
     "unity": "2022.3",
     "author": {
