@@ -1,0 +1,12 @@
+{
+    "name": "com.Draginalo.UnityPSXShaderKit",
+    "version": "1.0.0",
+    "displayName": "Package Example",
+    "description": "A package with some PSX shaders.",
+    "unity": "2022.3",
+    "author": {
+      "name": "Draginalo",
+      "email": "tropicaltisa@gmail.com",
+      "url": ""
+    }
+  }
