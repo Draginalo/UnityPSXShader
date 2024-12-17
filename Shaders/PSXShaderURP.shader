@@ -1,4 +1,4 @@
-Shader "Custom/PSXShaderURP"
+Shader "PSX/PSXShaderURP"
 {
     Properties
     {
